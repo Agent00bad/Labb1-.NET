@@ -18,8 +18,6 @@ void DisplayMenu()
     Console.Write(">");
 
 }
-goodByeMessage();
-
 void ReadInput()
 {
     switch (Int32.Parse(Console.ReadLine()))
@@ -40,9 +38,4 @@ void ReadInput()
         default:
             break;
     }
-}
-
-void goodByeMessage () //Handles output of text "bye bye"
-{
-    Console.WriteLine("Bye bye");
 }
