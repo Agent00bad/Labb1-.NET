@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DanielAldén-NET22STH\\Desktop\\C# ett kurs\\Labbar\\Labb1_newConsoleApp\\Labb1_newConsoleApp\\Labb1_newConsoleApp.csproj": {}
+    "C:\\Users\\DanielAldén-NET22STH\\Desktop\\C# ett kurs\\Labb1\\Labb1_newConsoleApp\\Labb1_newConsoleApp\\Labb1_newConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DanielAldén-NET22STH\\Desktop\\C# ett kurs\\Labbar\\Labb1_newConsoleApp\\Labb1_newConsoleApp\\Labb1_newConsoleApp.csproj": {
+    "C:\\Users\\DanielAldén-NET22STH\\Desktop\\C# ett kurs\\Labb1\\Labb1_newConsoleApp\\Labb1_newConsoleApp\\Labb1_newConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DanielAldén-NET22STH\\Desktop\\C# ett kurs\\Labbar\\Labb1_newConsoleApp\\Labb1_newConsoleApp\\Labb1_newConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\DanielAldén-NET22STH\\Desktop\\C# ett kurs\\Labb1\\Labb1_newConsoleApp\\Labb1_newConsoleApp\\Labb1_newConsoleApp.csproj",
         "projectName": "Labb1_newConsoleApp",
-        "projectPath": "C:\\Users\\DanielAldén-NET22STH\\Desktop\\C# ett kurs\\Labbar\\Labb1_newConsoleApp\\Labb1_newConsoleApp\\Labb1_newConsoleApp.csproj",
+        "projectPath": "C:\\Users\\DanielAldén-NET22STH\\Desktop\\C# ett kurs\\Labb1\\Labb1_newConsoleApp\\Labb1_newConsoleApp\\Labb1_newConsoleApp.csproj",
         "packagesPath": "C:\\Users\\DanielAldén-NET22STH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DanielAldén-NET22STH\\Desktop\\C# ett kurs\\Labbar\\Labb1_newConsoleApp\\Labb1_newConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\DanielAldén-NET22STH\\Desktop\\C# ett kurs\\Labb1\\Labb1_newConsoleApp\\Labb1_newConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
